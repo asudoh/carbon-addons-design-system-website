@@ -32,9 +32,9 @@ We recommend the use of [React Storybook](https://github.com/storybooks/react-st
 
 2. Open browser to `http://localhost:9000/`.
 
-3. Develop components in their respective folders (`carbon-addons-design-system-website/src/components`).
+3. Develop components in their respective folders (`carbon-addons-website/src/components`).
 
-4. Write stories for your components (`carbon-addons-design-system-website/src/components/**/*-story.js`).
+4. Write stories for your components (`carbon-addons-website/src/components/**/*-story.js`).
 
 ## Contributing
 
